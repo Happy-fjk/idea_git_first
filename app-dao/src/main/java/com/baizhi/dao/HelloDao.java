@@ -8,8 +8,8 @@ public class HelloDao {
     public String sayHello(String name){
         return "name: "+name;
     }
-    public void m1(){
-
+    public void m1(String dev){
+        System.out.println("dev");
     }
     public void m2(){
         System.out.println("hah");
