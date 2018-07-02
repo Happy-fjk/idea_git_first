@@ -12,6 +12,6 @@ public class HelloDao {
 
     }
     public void m2(){
-
+        System.out.println("hah");
     }
 }
