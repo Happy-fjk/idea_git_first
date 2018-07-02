@@ -18,4 +18,8 @@ public class HelloDao {
     public void a(){
 
     }
+
+    public void b(){
+
+    }
 }
